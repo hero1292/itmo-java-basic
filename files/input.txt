@@ -1,0 +1,5 @@
+Hello$world
+Hello$world$2
+Hello$wo$rld$3
+Hello$$$$wo$rld$4
+Hel$$$lo$world$5
